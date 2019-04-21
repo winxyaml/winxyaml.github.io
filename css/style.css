@@ -934,7 +934,7 @@ body {
 }
 .article-inner,
 .archive-article-inner {
-  background: #000;
+  background: #fff;
   -webkit-box-shadow: 1px 2px 3px #ddd;
   box-shadow: 1px 2px 3px #ddd;
   border: 1px solid #ddd;
@@ -2278,7 +2278,7 @@ pre .javascript .function {
 .widget {
   color: #fff;
   text-shadow: 0 1px #fff;
-  background: rgba(155,14,216,0.9);
+  background: rgba(155,14,216,0);
   -webkit-box-shadow: 0 -1px 4px #ccc inset;
   box-shadow: 0 -1px 4px #ccc inset;
   border: 1px solid #ccc;
